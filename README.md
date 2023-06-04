@@ -1,4 +1,4 @@
-## Hola! / Welcome!
+## Hola y bienvenidos! / Hi and welcome!
 
 <div style="display: flex;">
   <div style="flex: 1;">
