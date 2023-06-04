@@ -19,7 +19,7 @@ My primary research interests lie in the field of Computational Materials Scienc
 Here are some of my recent publications:
 
 1. [Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_
-   - Manasi Vyas, *Fernando Fajardo-Rojas*, Diego Gomez-Gualdron, Stephanie Kwon
+Manasi Vyas, **Fernando Fajardo-Rojas**, Diego Gomez-Gualdron, Stephanie Kwon
 
 2. Title of Paper 2 - Published in Journal Y
    - Summary of the paper and key findings.
