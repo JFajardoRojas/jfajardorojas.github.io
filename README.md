@@ -1,6 +1,4 @@
-# Welcome to My Website
-
-## Introduction
+## Hola! / Welcome!
 
 <div style="display: flex;">
   <div style="flex: 1;">
