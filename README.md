@@ -3,7 +3,7 @@
 </div>
 
 
-My name is Fernando Fajardo-Rojas, and I am a PhD student in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/) under the advice of [Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). I am part of [ID4 - Institute for Data Driven Dynamical Design](https://www.mines.edu/id4/) where I integrate molecular simulations, high-throughput computing, and machine learning methodologies to explore and identify novel materials with potential for energy-related applications.
+I am a PhD student in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/) under the advice of [Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). I am part of [ID4 - Institute for Data Driven Dynamical Design](https://www.mines.edu/id4/) where I integrate molecular simulations, high-throughput computing, and machine learning methodologies to explore and identify novel materials with potential for energy-related applications.
 
 Here, you will find information about my research interests, publications, and more.
 
@@ -15,6 +15,10 @@ My primary research interests lie in the field of Computational Materials Scienc
 - Machine Learning
 - Materials design and discovery
 - Surface Phenomena
+
+## News
+
+- 05/2023: We organized a workshop for professional development with [ADSE](https://www.allianceinscience.org/) at TAMU
 
 ## Publications
 
