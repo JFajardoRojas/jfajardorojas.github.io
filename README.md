@@ -6,6 +6,7 @@
     <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="200">
   </div>
 </div>
+
 ## Research Interests
 
 My primary research interests lie in the field of Computational Materials Sciences. I am particularly interested in using computational modeling and simulation techniques to study the properties and behavior of materials at the atomic scale. Some specific areas of focus include:
