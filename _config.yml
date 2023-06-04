@@ -1,1 +1,5 @@
 title: Your Custom Title
+
+sass:
+  sass_dir: assets/css
+  style: compressed
