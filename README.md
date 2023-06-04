@@ -25,8 +25,9 @@ Manasi Vyas, **Fernando Fajardo-Rojas** , Diego Gomez-Gualdron, Stephanie Kwon
 [Novel biosurfactants: Rationally designed surface-active peptides and in silico evaluation at the decane-water interface](https://www.sciencedirect.com/science/article/pii/S1359511322004251) - _Process Biochemistry_
 Johana Valentina Pérez-Bejarano, **Fernando Fajardo-Rojas**, Oscar Alvarez, Juan C Burgos, Luis H Reyes, Diego Pradilla
 
-3. Title of Paper 3 - Published in Journal Z
-   - Summary of the paper and key findings.
+## 2022
+[Exploring Pre-Trained Language Models to Build Knowledge Graph for Metal-Organic Frameworks (MOFs)](https://ieeexplore.ieee.org/abstract/document/10020568) - _2022 IEEE International Conference on Big Data (Big Data)_
+Yuan An, Jane Greenberg, Xiaohua Hu, Alex Kalinowski, Xiao Fang, Xintong Zhao, Scott McCLellan, Fernando J Uribe-Romo, Kyle Langlois, Jacob Furst, Diego A Gómez-Gualdrón, **Fernando Fajardo-Rojas**, Katherine Ardila, Semion K Saikin, Corey A Harper, Ron Daniel
 
 You can find a complete list of my publications on my [Google Scholar](https://scholar.google.com) profile.
 
