@@ -10,16 +10,16 @@ My name is Fernando Fajardo-Rojas, and I am a PhD student in Materials Sciences 
 My primary research interests lie in the field of Computational Materials Sciences. I am particularly interested in using computational modeling and simulation techniques to study the properties and behavior of materials at the atomic scale. Some specific areas of focus include:
 
 - Molecular dynamics simulations
-- Density functional theory calculations
+- Machine Learning
 - Materials design and discovery
-- Nanomaterials and their applications
+- Surface Phenomena
 
 ## Publications
 
 Here are some of my recent publications:
 
-1. Title of Paper 1 - Published in Journal X
-   - Summary of the paper and key findings.
+1. [Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_
+   - Manasi Vyas, *Fernando Fajardo-Rojas*, Diego Gomez-Gualdron, Stephanie Kwon
 
 2. Title of Paper 2 - Published in Journal Y
    - Summary of the paper and key findings.
