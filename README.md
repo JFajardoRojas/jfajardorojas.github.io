@@ -6,6 +6,7 @@ Hello and welcome to my website! My name is [Your Name], and I am a PhD student 
 <div style="text-align: right">
   <img src="Fernando_Fajardo-Rojas.png" alt="Image" width="200">
 </div>
+
 ## Research Interests
 
 My primary research interests lie in the field of Computational Materials Sciences. I am particularly interested in using computational modeling and simulation techniques to study the properties and behavior of materials at the atomic scale. Some specific areas of focus include:
