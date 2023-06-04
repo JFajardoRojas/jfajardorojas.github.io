@@ -4,7 +4,6 @@
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h1>Main Title</h1>
     <p>Hello and welcome to my website! My name is [Your Name], and I am a PhD student in Computational Materials Sciences. Here, you will find information about my research interests, publications, and more.</p>
   </div>
   <div style="flex: 1;">
