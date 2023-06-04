@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <div style="flex: 1;">
-    <p> My name is Fernando Fajardo-Rojas, and I am a PhD student in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/). Here, you will find information about my research interests, publications, and more.</p>
+    <p> My name is Fernando Fajardo-Rojas, and I am a PhD student in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/) under the advise of [Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). Here, you will find information about my research interests, publications, and more.</p>
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="200">
