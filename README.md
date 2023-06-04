@@ -3,7 +3,9 @@
 </div>
 
 
-My name is Fernando Fajardo-Rojas, and I am a PhD student in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/) under the advice of [Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). Here, you will find information about my research interests, publications, and more.
+My name is Fernando Fajardo-Rojas, and I am a PhD student in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/) under the advice of [Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). I am part of [ID4 - Institute for Data Driven Dynamical Design](https://www.mines.edu/id4/) where I integrate molecular simulations, high-throughput computing, and machine learning methodologies to explore and identify novel materials with potential for energy-related applications.
+
+Here, you will find information about my research interests, publications, and more.
 
 ## Research Interests
 
@@ -35,16 +37,13 @@ Here are some of my recent publications:
 
 You can find a complete list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=FpanAPQAAAAJ&hl=en) profile.
 
-## Projects
+## Education
 
-
-### Project 1: Machine Learning for Adsorption Prediction in Metal Organic Frameworks
-
-In this research project, I actively contributed to the application of machine learning techniques for predicting adsorption behavior in Metal Organic Frameworks (MOFs). Our main goal was to develop advanced computational models capable of accurately estimating adsorption properties for various gases and liquids within MOFs. By leveraging machine learning algorithms and extensive datasets, we uncovered crucial patterns and relationships governing adsorption phenomena. This interdisciplinary collaboration resulted in valuable insights and promising outcomes, advancing the design and optimization of MOFs for adsorption applications.
-
-### Project 2: Surfactant Interfacial Activity: Simulations and Experiments
-
-Our research combines simulations and experiments to investigate surfactant interfacial activity. We aim to understand how surfactants interact at liquid interfaces, such as liquid-liquid and liquid-air interfaces. By studying interfacial tension reduction, self-assembly, and interfacial modifications, we uncover the underlying mechanisms. This interdisciplinary approach enhances our understanding of surfactant behavior, benefiting applications like emulsions, foams, detergency, and enhanced oil recovery.
+- Present, Colorado School of Mines, Ph.D. Materials Science
+- 2021, Universidad de Los Andes, Colombia, Ph.D. Engineering
+- 2021, Universidad de Los Andes, Colombia, M.Sc. Chemical Engineering
+- 2016, Universidad de Industrial de Santander, Colombia, M.Sc. Hydrocarbon Engineering
+- 2013, Universidad de Industrial de Santander, Colombia, B.Sc. Chemical Engineering
 
 ## Contact Me
 
