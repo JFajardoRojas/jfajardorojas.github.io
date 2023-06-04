@@ -18,16 +18,18 @@ My primary research interests lie in the field of Computational Materials Scienc
 
 Here are some of my recent publications:
 
-## 2023
-[Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_
+[Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_ - 2023
 Manasi Vyas, **Fernando Fajardo-Rojas** , Diego Gomez-Gualdron, Stephanie Kwon
 
-[Novel biosurfactants: Rationally designed surface-active peptides and in silico evaluation at the decane-water interface](https://www.sciencedirect.com/science/article/pii/S1359511322004251) - _Process Biochemistry_
+[Novel biosurfactants: Rationally designed surface-active peptides and in silico evaluation at the decane-water interface](https://www.sciencedirect.com/science/article/pii/S1359511322004251) - _Process Biochemistry_ - 2023
 Johana Valentina Pérez-Bejarano, **Fernando Fajardo-Rojas**, Oscar Alvarez, Juan C Burgos, Luis H Reyes, Diego Pradilla
 
-## 2022
-[Exploring Pre-Trained Language Models to Build Knowledge Graph for Metal-Organic Frameworks (MOFs)](https://ieeexplore.ieee.org/abstract/document/10020568) - _2022 IEEE International Conference on Big Data (Big Data)_
-Yuan An, Jane Greenberg, Xiaohua Hu, Alex Kalinowski, Xiao Fang, Xintong Zhao, Scott McCLellan, Fernando J Uribe-Romo, Kyle Langlois, Jacob Furst, Diego A Gómez-Gualdrón, **Fernando Fajardo-Rojas**, Katherine Ardila, Semion K Saikin, Corey A Harper, Ron Daniel
+[Building Open Knowledge Graph for Metal-Organic Frameworks (MOF-KG): Challenges and Case Studies](https://arxiv.org/abs/2207.04502) - _arXiv_ - 2022
+Yuan An, Jane Greenberg, Xintong Zhao, Xiaohua Hu, Scott McCLellan, Alex Kalinowski, Fernando J. Uribe-Romo, Kyle Langlois, Jacob Furst, Diego A. Gómez-Gualdrón, **Fernando Fajardo-Rojas**, Katherine Ardila
+
+[Deviation from Equilibrium Thermodynamics of an Asphaltene Model Compound during Compression–Expansion Experiments at Fluid–Fluid Interfaces](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.0c03151) - _Langmuir_ - 2021
+**Fernando Fajardo-Rojas**, Oscar Alberto Alvarez Solano, Joseph R. Samaniuk, and Diego Pradilla
+
 
 You can find a complete list of my publications on my [Google Scholar](https://scholar.google.com) profile.
 
