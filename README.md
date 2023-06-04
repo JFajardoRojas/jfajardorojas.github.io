@@ -28,7 +28,7 @@ Here are some of my recent publications:
 
 [Probing Interfacial Structure and Dynamics of Model and Natural Asphaltenes at Fluid-Fluid Interfaces](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.0c01320) - _Langmuir_ - 2020 | **Fernando Fajardo-Rojas**, Diego Pradilla, Oscar Alberto Alvarez Solano, and Joseph Samaniuk
 
-You can find a complete list of my publications on my [Google Scholar](https://scholar.google.com) profile.
+You can find a complete list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=FpanAPQAAAAJ&hl=en) profile.
 
 ## Projects
 
@@ -42,6 +42,6 @@ In collaboration with a team of researchers, I worked on investigating the catal
 
 ## Contact Me
 
-If you have any questions, would like to discuss potential collaborations, or want to know more about my research, feel free to reach out to me. You can contact me via email at [yourname@example.com](mailto:yourname@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourname).
+If you have any questions, would like to discuss potential collaborations, or want to know more about my research, feel free to reach out to me. You can contact me via email at [jfajardorojas@mines.edu](mailto:jfajardorojas@mines.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jair-fernando-fajardo-rojas-7a791078/).
 
 Thank you for visiting my website!
