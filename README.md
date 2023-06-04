@@ -1,5 +1,9 @@
 # Welcome to My Website
 
+<div style="text-align: right">
+  <img src="Fernando_Fajardo-Rojas.png" alt="Image" width="200">
+</div>
+
 ## Introduction
 
 Hello and welcome to my website! My name is [Your Name], and I am a PhD student in Computational Materials Sciences. Here, you will find information about my research interests, publications, and more.
