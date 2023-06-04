@@ -3,8 +3,14 @@
 ## Introduction
 
 Hello and welcome to my website! My name is [Your Name], and I am a PhD student in Computational Materials Sciences. Here, you will find information about my research interests, publications, and more.
-<div style="text-align: right">
-  <img src="Fernando_Fajardo-Rojas.png" alt="Image" width="200">
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h1>Main Title</h1>
+    <p>This is the text content.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="Fernando_Fajardo-Rojas.png" alt="Image" width="200">
+  </div>
 </div>
 
 ## Research Interests
