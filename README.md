@@ -32,7 +32,7 @@ You can find a complete list of my publications on my [Google Scholar](https://s
 - 2016, Universidad de Industrial de Santander, Colombia, M.Sc. Hydrocarbon Engineering
 - 2013, Universidad de Industrial de Santander, Colombia, B.Sc. Chemical Engineering
 
-## Contact Me
+## Contact
 
 If you have any questions, would like to discuss potential collaborations, or want to know more about my research, feel free to reach out to me. You can contact me via email at [jfajardorojas@mines.edu](mailto:jfajardorojas@mines.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jair-fernando-fajardo-rojas-7a791078/).
 
