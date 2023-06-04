@@ -18,27 +18,33 @@ My primary research interests lie in the field of Computational Materials Scienc
 
 Here are some of my recent publications:
 
-[Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_ - 2023 | Manasi Vyas, **Fernando Fajardo-Rojas** , Diego Gomez-Gualdron, Stephanie Kwon
+[Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_ - 2023
+- Manasi Vyas, **Fernando Fajardo-Rojas** , Diego Gomez-Gualdron, Stephanie Kwon
 
-[Novel biosurfactants: Rationally designed surface-active peptides and in silico evaluation at the decane-water interface](https://www.sciencedirect.com/science/article/pii/S1359511322004251) - _Process Biochemistry_ - 2023 | Johana Valentina Pérez-Bejarano, **Fernando Fajardo-Rojas**, Oscar Alvarez, Juan C Burgos, Luis H Reyes, Diego Pradilla
+[Novel biosurfactants: Rationally designed surface-active peptides and in silico evaluation at the decane-water interface](https://www.sciencedirect.com/science/article/pii/S1359511322004251) - _Process Biochemistry_ - 2023 
+- Johana Valentina Pérez-Bejarano, **Fernando Fajardo-Rojas**, Oscar Alvarez, Juan C Burgos, Luis H Reyes, Diego Pradilla
 
-[Building Open Knowledge Graph for Metal-Organic Frameworks (MOF-KG): Challenges and Case Studies](https://arxiv.org/abs/2207.04502) - _arXiv_ - 2022 | Yuan An, Jane Greenberg, Xintong Zhao, Xiaohua Hu, Scott McCLellan, Alex Kalinowski, Fernando J. Uribe-Romo, Kyle Langlois, Jacob Furst, Diego A. Gómez-Gualdrón, **Fernando Fajardo-Rojas**, Katherine Ardila
+[Building Open Knowledge Graph for Metal-Organic Frameworks (MOF-KG): Challenges and Case Studies](https://arxiv.org/abs/2207.04502) - _arXiv_ - 2022 
+- Yuan An, Jane Greenberg, Xintong Zhao, Xiaohua Hu, Scott McCLellan, Alex Kalinowski, Fernando J. Uribe-Romo, Kyle Langlois, Jacob Furst, Diego A. Gómez-Gualdrón, **Fernando Fajardo-Rojas**, Katherine Ardila
 
-[Deviation from Equilibrium Thermodynamics of an Asphaltene Model Compound during Compression–Expansion Experiments at Fluid–Fluid Interfaces](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.0c03151) - _Langmuir_ - 2021 | **Fernando Fajardo-Rojas**, Oscar Alberto Alvarez Solano, Joseph R. Samaniuk, and Diego Pradilla
+[Deviation from Equilibrium Thermodynamics of an Asphaltene Model Compound during Compression–Expansion Experiments at Fluid–Fluid Interfaces](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.0c03151) - _Langmuir_ - 2021  
+-**Fernando Fajardo-Rojas**, Oscar Alberto Alvarez Solano, Joseph R. Samaniuk, and Diego Pradilla
 
-[Probing Interfacial Structure and Dynamics of Model and Natural Asphaltenes at Fluid-Fluid Interfaces](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.0c01320) - _Langmuir_ - 2020 | **Fernando Fajardo-Rojas**, Diego Pradilla, Oscar Alberto Alvarez Solano, and Joseph Samaniuk
+[Probing Interfacial Structure and Dynamics of Model and Natural Asphaltenes at Fluid-Fluid Interfaces](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.0c01320) - _Langmuir_ - 2020
+- **Fernando Fajardo-Rojas**, Diego Pradilla, Oscar Alberto Alvarez Solano, and Joseph Samaniuk
 
 You can find a complete list of my publications on my [Google Scholar](https://scholar.google.com/citations?user=FpanAPQAAAAJ&hl=en) profile.
 
 ## Projects
 
-### Project 1: Materials Design for Energy Storage
 
-As part of my research, I have been involved in a project focused on developing new materials for energy storage applications. We utilized computational methods to screen and design materials with improved energy storage capabilities. The project involved collaboration with researchers from different disciplines and resulted in promising findings.
+### Project 1: Machine Learning for Adsorption Prediction in Metal Organic Frameworks
 
-### Project 2: Nanomaterials for Catalysis
+In this research project, I actively contributed to the application of machine learning techniques for predicting adsorption behavior in Metal Organic Frameworks (MOFs). Our main goal was to develop advanced computational models capable of accurately estimating adsorption properties for various gases and liquids within MOFs. By leveraging machine learning algorithms and extensive datasets, we uncovered crucial patterns and relationships governing adsorption phenomena. This interdisciplinary collaboration resulted in valuable insights and promising outcomes, advancing the design and optimization of MOFs for adsorption applications.
 
-In collaboration with a team of researchers, I worked on investigating the catalytic properties of nanomaterials for various industrial applications. We used computational simulations to understand the underlying mechanisms and optimize the performance of these materials. The project contributed to the development of more efficient catalytic systems.
+### Project 2: Surfactant Interfacial Activity: Simulations and Experiments
+
+Our research combines simulations and experiments to investigate surfactant interfacial activity. We aim to understand how surfactants interact at liquid interfaces, such as liquid-liquid and liquid-air interfaces. By studying interfacial tension reduction, self-assembly, and interfacial modifications, we uncover the underlying mechanisms. This interdisciplinary approach enhances our understanding of surfactant behavior, benefiting applications like emulsions, foams, detergency, and enhanced oil recovery.
 
 ## Contact Me
 
