@@ -8,7 +8,7 @@
     <p>Hello and welcome to my website! My name is [Your Name], and I am a PhD student in Computational Materials Sciences. Here, you will find information about my research interests, publications, and more.</p>
   </div>
   <div style="flex: 1;">
-    <img src="image_url" alt="Your Name" width="200">
+    <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="200">
   </div>
 </div>
 
