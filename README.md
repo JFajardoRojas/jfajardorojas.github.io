@@ -16,7 +16,7 @@ My primary research interests lie in the field of Computational Materials Scienc
 - Materials design and discovery
 - Surface Phenomena
 
-## News
+## News 
 
 - 05/2023: We organized a workshop for professional development with [ADSE](https://www.allianceinscience.org/) at TAMU
 
