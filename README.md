@@ -18,13 +18,12 @@ My primary research interests lie in the field of Computational Materials Scienc
 
 Here are some of my recent publications:
 
-1. [Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_
-Manasi Vyas, <u>Fernando Fajardo-Rojas</u> , Diego Gomez-Gualdron, Stephanie Kwon
+## 2023
+[Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_
+Manasi Vyas, **Fernando Fajardo-Rojas** , Diego Gomez-Gualdron, Stephanie Kwon
 
-<u>highlighted and underlined</u>
-
-2. Title of Paper 2 - Published in Journal Y
-   - Summary of the paper and key findings.
+[Novel biosurfactants: Rationally designed surface-active peptides and in silico evaluation at the decane-water interface](https://www.sciencedirect.com/science/article/pii/S1359511322004251) - _Process Biochemistry_
+Johana Valentina Pérez-Bejarano, **Fernando Fajardo-Rojas**, Oscar Alvarez, Juan C Burgos, Luis H Reyes, Diego Pradilla
 
 3. Title of Paper 3 - Published in Journal Z
    - Summary of the paper and key findings.
