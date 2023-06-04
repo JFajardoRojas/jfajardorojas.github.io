@@ -2,8 +2,11 @@
   <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="250">
 </div>
 
-My name is Fernando Fajardo-Rojas, and I am a PhD student in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/) under the advice of [Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). Here, you will find information about my research interests, publications, and more.
 
+<div style="text-align: right;">
+  <My name is Fernando Fajardo-Rojas, and I am a PhD student in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/) under the advice of [Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). Here, you will find information about my research interests, publications, and more.>
+</div>
+  
 ## Research Interests
 
 My primary research interests lie in the field of Computational Materials Sciences. I am particularly interested in using computational modeling and simulation techniques to study the properties and behavior of materials at the atomic scale. Some specific areas of focus include:
