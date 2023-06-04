@@ -19,24 +19,19 @@ My primary research interests lie in the field of Computational Materials Scienc
 Here are some of my recent publications:
 
 [Theoretical assessments of Pd-PdO phase transformation and its impacts on H2O2 synthesis and decomposition pathways](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CY/D3CY00404J) - _Catalysis Science & Technology_ - 2023
-
-Manasi Vyas, **Fernando Fajardo-Rojas** , Diego Gomez-Gualdron, Stephanie Kwon
+  Manasi Vyas, **Fernando Fajardo-Rojas** , Diego Gomez-Gualdron, Stephanie Kwon
 
 [Novel biosurfactants: Rationally designed surface-active peptides and in silico evaluation at the decane-water interface](https://www.sciencedirect.com/science/article/pii/S1359511322004251) - _Process Biochemistry_ - 2023
-
-Johana Valentina Pérez-Bejarano, **Fernando Fajardo-Rojas**, Oscar Alvarez, Juan C Burgos, Luis H Reyes, Diego Pradilla
+  Johana Valentina Pérez-Bejarano, **Fernando Fajardo-Rojas**, Oscar Alvarez, Juan C Burgos, Luis H Reyes, Diego Pradilla
 
 [Building Open Knowledge Graph for Metal-Organic Frameworks (MOF-KG): Challenges and Case Studies](https://arxiv.org/abs/2207.04502) - _arXiv_ - 2022
-
-Yuan An, Jane Greenberg, Xintong Zhao, Xiaohua Hu, Scott McCLellan, Alex Kalinowski, Fernando J. Uribe-Romo, Kyle Langlois, Jacob Furst, Diego A. Gómez-Gualdrón, **Fernando Fajardo-Rojas**, Katherine Ardila
+  Yuan An, Jane Greenberg, Xintong Zhao, Xiaohua Hu, Scott McCLellan, Alex Kalinowski, Fernando J. Uribe-Romo, Kyle Langlois, Jacob Furst, Diego A. Gómez-Gualdrón, **Fernando Fajardo-Rojas**, Katherine Ardila
 
 [Deviation from Equilibrium Thermodynamics of an Asphaltene Model Compound during Compression–Expansion Experiments at Fluid–Fluid Interfaces](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.0c03151) - _Langmuir_ - 2021
-
-**Fernando Fajardo-Rojas**, Oscar Alberto Alvarez Solano, Joseph R. Samaniuk, and Diego Pradilla
+  **Fernando Fajardo-Rojas**, Oscar Alberto Alvarez Solano, Joseph R. Samaniuk, and Diego Pradilla
 
 [Probing Interfacial Structure and Dynamics of Model and Natural Asphaltenes at Fluid-Fluid Interfaces](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.0c01320) - _Langmuir_ - 2020
-
-**Fernando Fajardo-Rojas**, Diego Pradilla, Oscar Alberto Alvarez Solano, and Joseph Samaniuk
+  **Fernando Fajardo-Rojas**, Diego Pradilla, Oscar Alberto Alvarez Solano, and Joseph Samaniuk
 
 You can find a complete list of my publications on my [Google Scholar](https://scholar.google.com) profile.
 
