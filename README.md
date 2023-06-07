@@ -18,6 +18,7 @@ My primary research interests lie in the field of Computational Materials Scienc
 
 ## News 
 
+- 06/2023: I participated in the seminar sessions of [ID4](https://www.mines.edu/id4/) sharing my work on Application-relevant properties predictions in MOFs using Machine Learning.
 - 05/2023: We organized a workshop for professional development with [ADSE](https://www.allianceinscience.org/) at TAMU
 
 ## Publications
