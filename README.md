@@ -7,14 +7,16 @@ I am a Ph.D. candidate in Materials Sciences at [Colorado School of Mines](https
 
 ## Research Interests
 
-My primary research interests lie in the field of Computational Materials Sciences. I am particularly interested in using computational modeling and simulation techniques to study the properties and behavior of materials at the atomic scale. Some specific areas of focus include:
+My broad research interests lie in the intersection between physics, chemistry, and machine learning to design functional materials. Among my research interests are:
 
-- Machine Learning
-- Rational design of Materials (currently focused on MOFs)
-- Surface Phenomena 
+- Development of Data-Driven tools for Rational Materials Design
+- Multi-Scale Property-Structure Relationships for Complex Systems Design
+- Interfacial Phenomena
+- Porous Materials
 
 ## News 
 
+- 08/2023: [New Collaboration Paper](https://pubs.acs.org/doi/10.1021/jacs.3c03918): Three solution-stable MOFs were found to facilitate the Singlet Fission process by stabilizing the Charge Transfer state.
 - 06/2023: I participated in the seminar sessions of [ID4](https://www.mines.edu/id4/) sharing my work on Application-relevant properties predictions in MOFs using Machine Learning.
 - 05/2023: We organized a workshop for professional development with [ADSE](https://www.allianceinscience.org/) at TAMU
 
