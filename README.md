@@ -17,6 +17,7 @@ My broad research interests lie in the intersection between physics, chemistry, 
 ## News 
 
 - 08/2023: [New Collaboration Paper](https://pubs.acs.org/doi/10.1021/jacs.3c03918): Three solution-stable MOFs were found to facilitate the Singlet Fission process by stabilizing the Charge Transfer state.
+- 07/2023: Talk accepted in AIChE 2023. I am going to talk about "Implications of Material Functionalization and Solvent Identity on the Synthesizability and Polymorph Selection of Metal-Organic Frameworks"
 - 06/2023: I participated in the seminar sessions of [ID4](https://www.mines.edu/id4/) sharing my work on Application-relevant properties predictions in MOFs using Machine Learning.
 - 05/2023: [Collaboration Paper](https://doi.org/10.1039/D3CY00404J): We studied the synthesis of H2O2 with Pd and PdO. I explored Pd-PdO clustered configurations using reactive force fields looking for non-biased structures.
 - 05/2023: We organized a workshop for professional development with [ADSE](https://www.allianceinscience.org/) at TAMU
