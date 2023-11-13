@@ -4,7 +4,7 @@
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <p>
-      I am a Ph.D. candidate in Materials Sciences at <a href="https://www.mines.edu/">Colorado School of Mines</a>, working under the guidance of <a href="https://chemeng.mines.edu/project/gomez-gualdron-diego/">Dr. Diego Gómez-Gualdron</a>. I am part of <a href="https://www.mines.edu/id4/">ID4 - Institute for Data Driven Dynamical Design</a> where I integrate molecular simulations, high-throughput computing, and machine learning to explore and identify novel materials with potential for energy-related applications.
+      I am a Ph.D. student in Materials Sciences at <a href="https://www.mines.edu/">Colorado School of Mines</a>, working under the guidance of <a href="https://chemeng.mines.edu/project/gomez-gualdron-diego/">Dr. Diego Gómez-Gualdron</a>. I am part of <a href="https://www.mines.edu/id4/">ID4 - Institute for Data Driven Dynamical Design</a> where I integrate molecular simulations, high-throughput computing, and machine learning to explore and identify novel materials with potential for energy-related applications.
     </p>
   </div> 
 </div>
