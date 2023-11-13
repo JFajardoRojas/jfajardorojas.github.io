@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: left;">
   <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="250">
 </div>
 
