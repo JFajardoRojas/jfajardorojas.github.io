@@ -67,8 +67,11 @@
       Thank you for visiting my website!
     `;
 
-    // Convert Markdown to HTML and insert it into the div with id "markdown-content"
-    document.getElementById('markdown-content').innerHTML = marked(markdownText);
+    // Convert Markdown to HTML with links preserved
+    var htmlContent = marked(markdownText, { sanitize: false });
+
+    // Insert HTML content into the div with id "markdown-content"
+    document.getElementById('markdown-content').innerHTML = htmlContent;
   </script>
 
 </body>
