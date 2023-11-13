@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="125">
+    <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="200">
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <p>
