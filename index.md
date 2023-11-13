@@ -1,10 +1,14 @@
-<div style="text-align: left;">
-  <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="250">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="Fernando_Fajardo-Rojas.png" alt="Your Name" width="125">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <p>
+      I am a Ph.D. candidate in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/), working under the guidance of [Dr. Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). I am part of [ID4 - Institute for Data Driven Dynamical Design](https://www.mines.edu/id4/) where I integrate molecular simulations, high-throughput computing, and machine learning to explore and identify novel materials with potential for energy-related applications.
+    </p>
+  </div> 
 </div>
-
-
-I am a Ph.D. candidate in Materials Sciences at [Colorado School of Mines](https://www.mines.edu/), working under the guidance of [Dr. Diego Gómez-Gualdron](https://chemeng.mines.edu/project/gomez-gualdron-diego/). I am part of [ID4 - Institute for Data Driven Dynamical Design](https://www.mines.edu/id4/) where I integrate molecular simulations, high-throughput computing, and machine learning to explore and identify novel materials with potential for energy-related applications.
-
+    
 ## Research Interests
 
 My broad research interests lie in the intersection between physics, chemistry, and machine learning to design functional materials. Among my research interests are:
