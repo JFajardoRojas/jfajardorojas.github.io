@@ -21,11 +21,7 @@ My broad research interests lie in the intersection between physics, chemistry, 
 
 ## News 
 
-
-ID4 awarded the first annual ID4 Excellence Awards to our graduate students and postdocs who contributed significantly to ID4 intellectual merit, broader impacts, and/or ID4 community building. The winners (left to right) are Leticia Gomez, Rafael Pastrana, Isabel Moreira, Fernando Fajardo-Rojas, Colton Gerber, Jenny Zhan, and Drew Novick. Congratulations to the winners and thank you for your contributions!
-
-
-- 04/2024: I was honored with the ID4 Excellence Award 2024. The award is granted based on intellectual merit, broader impacts, and ID4 community building. Happy to share this honor with great scientists and friends. [Link](https://www.mines.edu/id4/)
+- 04/2024: I was honored with the ID4 Excellence Award 2024. The award is granted based on intellectual merit, broader impacts, and ID4 community building. I am happy to share this honor with great scientists and friends. [Link](https://www.mines.edu/id4/)
 - 08/2023: [New Collaboration Paper](https://pubs.acs.org/doi/10.1021/jacs.3c03918): Three solution-stable MOFs were found to facilitate the Singlet Fission process by stabilizing the Charge Transfer state.
 - 06/2023: I participated in the seminar sessions of [ID4](https://www.mines.edu/id4/) sharing my work on Application-relevant properties predictions in MOFs using Machine Learning.
 - 05/2023: [Collaboration Paper](https://doi.org/10.1039/D3CY00404J): We studied the synthesis of H2O2 with Pd and PdO. I explored Pd-PdO clustered configurations using reactive force fields looking for non-biased structures.
