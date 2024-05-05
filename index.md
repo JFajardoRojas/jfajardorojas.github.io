@@ -33,11 +33,11 @@ You can find a complete list of my publications on my [Google Scholar](https://s
 
 ## Education
 
-- Present, Colorado School of Mines, Ph.D. Materials Science
-- 2021, Universidad de Los Andes, Colombia, Ph.D. Engineering
-- 2021, Universidad de Los Andes, Colombia, M.Sc. Chemical Engineering
-- 2016, Universidad de Industrial de Santander, Colombia, M.Sc. Hydrocarbon Engineering
-- 2013, Universidad de Industrial de Santander, Colombia, B.Sc. Chemical Engineering
+- Present  Ph.D. Materials Science         Colorado School of Mines 
+- 2021     Ph.D. Engineering               Universidad de Los Andes, Colombia
+- 2021     M.Sc. Chemical Engineering      Universidad de Los Andes, Colombia
+- 2016     M.Sc. Hydrocarbon Engineering   Universidad de Industrial de Santander, Colombia, 
+- 2013     B.Sc. Chemical Engineering      Universidad de Industrial de Santander, Colombia, 
 
 ## Contact
 
